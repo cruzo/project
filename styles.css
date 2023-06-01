@@ -1,9 +1,9 @@
 /* Custom properties/variables  */
 :root {
   --main-white: #f0f0f0;
-  --main-red: #31be3c;
-  --main-blue: #18576c;
-  --main-gray: #87234e;
+  --main-red: #075d0e;
+  --main-blue: #03789f;
+  --main-gray: #0d0438;
 }
 
 /* Base reset */
@@ -55,7 +55,6 @@ body {
   line-height: 1.4;
   color: var(--main-white);
 }
-
 h1,
 h2 {
   font-family: 'Raleway', sans-serif;
